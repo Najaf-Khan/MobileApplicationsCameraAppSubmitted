@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\hp1\\AndroidStudioProjects\\FragmentBasics1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "C:\\Users\\hp1\\AndroidStudioProjects\\FragmentBasics1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 52,
+                        "endOffset": 690
+                    }
+                }
+            }
+        ]
+    }
+]

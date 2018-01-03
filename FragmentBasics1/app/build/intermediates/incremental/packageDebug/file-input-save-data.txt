@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Wed Oct 18 12:33:36 PKT 2017
+2.base=C\:\\Users\\hp1\\AndroidStudioProjects\\FragmentBasics1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f6aa50bd74e44dacb24f5748b7574080d49f2c8e
+5.file=C\:\\Users\\hp1\\AndroidStudioProjects\\FragmentBasics1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\hp1\\AndroidStudioProjects\\FragmentBasics1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\hp1\\AndroidStudioProjects\\FragmentBasics1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+2.set=DEX
+4.base=C\:\\Users\\hp1\\AndroidStudioProjects\\FragmentBasics1\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\hp1\\AndroidStudioProjects\\FragmentBasics1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d323413acb24a5f2aa9511893ff8184ffa76e1c5\\classes.dex
+7.set=DEX
+count=8
+0.file=C\:\\Users\\hp1\\AndroidStudioProjects\\FragmentBasics1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=C\:\\Users\\hp1\\AndroidStudioProjects\\FragmentBasics1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\hp1\\AndroidStudioProjects\\FragmentBasics1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\hp1\\AndroidStudioProjects\\FragmentBasics1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\article_view.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\hp1\\AndroidStudioProjects\\FragmentBasics1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d323413acb24a5f2aa9511893ff8184ffa76e1c5
+2.file=C\:\\Users\\hp1\\AndroidStudioProjects\\FragmentBasics1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f6aa50bd74e44dacb24f5748b7574080d49f2c8e\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\hp1\\AndroidStudioProjects\\FragmentBasics1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\hp1\\AndroidStudioProjects\\FragmentBasics1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\news_articles.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\hp1\\AndroidStudioProjects\\FragmentBasics1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\hp1\\AndroidStudioProjects\\FragmentBasics1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-large-v4\\news_articles.xml
+0.set=ANDROID_RESOURCE

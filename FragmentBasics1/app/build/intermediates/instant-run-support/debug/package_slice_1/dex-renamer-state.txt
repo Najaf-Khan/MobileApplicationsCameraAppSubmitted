@@ -1,0 +1,4 @@
+#Wed Oct 18 12:33:34 PKT 2017
+base.0=C\:\\Users\\hp1\\AndroidStudioProjects\\FragmentBasics1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
+renamed.0=classes.dex
+file.0=C\:\\Users\\hp1\\AndroidStudioProjects\\FragmentBasics1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex

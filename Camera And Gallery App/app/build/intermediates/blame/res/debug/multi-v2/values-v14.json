@@ -1,0 +1,90 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\hp1\\AndroidStudioProjects\\Camera And Gallery App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hp1\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\8a06278d241f83d275781253a4beaa26\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "4,11,12,13,19,27,28,29,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "290,796,867,950,1360,2007,2127,2190,2344,2407",
+                        "endLines": "8,11,12,18,24,27,28,31,32,33",
+                        "endColumns": "12,70,82,12,12,119,62,12,62,131",
+                        "endOffsets": "561,862,945,1355,1777,2122,2185,2339,2402,2534"
+                    },
+                    "to": {
+                        "startLines": "5,10,11,12,18,24,25,26,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "203,479,550,633,1043,1465,1585,1648,1802,1865",
+                        "endLines": "9,10,11,17,23,24,25,28,29,30",
+                        "endColumns": "12,70,82,12,12,119,62,12,62,131",
+                        "endOffsets": "474,545,628,1038,1460,1580,1643,1797,1860,1992"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hp1\\AndroidStudioProjects\\Camera And Gallery App\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "363"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "198"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\hp1\\AndroidStudioProjects\\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hp1\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\0d1ca86ccc88f7d68771e5fd93a8b49d\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "4,11,12,13,19,27,28,29,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "290,796,867,950,1360,2007,2127,2190,2344,2407",
+                        "endLines": "8,11,12,18,24,27,28,31,32,33",
+                        "endColumns": "12,70,82,12,12,119,62,12,62,131",
+                        "endOffsets": "561,862,945,1355,1777,2122,2185,2339,2402,2534"
+                    },
+                    "to": {
+                        "startLines": "5,10,11,12,18,24,25,26,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "203,479,550,633,1043,1465,1585,1648,1802,1865",
+                        "endLines": "9,10,11,17,23,24,25,28,29,30",
+                        "endColumns": "12,70,82,12,12,119,62,12,62,131",
+                        "endOffsets": "474,545,628,1038,1460,1580,1643,1797,1860,1992"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hp1\\AndroidStudioProjects\\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "363"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "198"
+                    }
+                }
+            ]
+        }
+    ]
+}
